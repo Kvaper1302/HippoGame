@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3e17ddd7ef3034aa23c654543c4445, type: 3}
+  m_Name: Onion
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Onion
+  <BasePrice>k__BackingField: 100
+  <BaseUpgradePrice>k__BackingField: 200
+  <BaseProductionPerCycle>k__BackingField: 1
+  <NeededPoopPerCycle>k__BackingField: 4
+  <UpgradeCostGrowthModifier>k__BackingField: 1.14
+  <BaseGrowthTime>k__BackingField: 40
